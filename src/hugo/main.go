@@ -1,6 +1,6 @@
 package main
 
-import "cobra-example/src/hugo/cmd"
+import "cobra-scriptm/src/hugo/cmd"
 
 func main() {
 	cmd.Execute()
